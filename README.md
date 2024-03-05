@@ -1,4 +1,8 @@
 # Foodeli
+
+![foodeli-mock-up](https://github.com/DOSSA-HASAN/Foodeli/assets/161303408/428fb2ea-669b-4b8c-8e00-b5b3ff369653)
+
+
 # Foodeli food delivery Website Design
 
 Welcome to the Foodeli food delivery Website Design project! This repository showcases a visually appealing design concept for a food delivery Website, meticulously crafted using HTML and CSS.
