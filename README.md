@@ -2,8 +2,7 @@
 
 ![foodeli-mock-up](https://github.com/DOSSA-HASAN/Foodeli/assets/161303408/428fb2ea-669b-4b8c-8e00-b5b3ff369653)
 
-##LIVE DEMO
-#[LIVE DEMO](https://dossa-hasan.github.io/Foodeli/)
+[LIVE DEMO](https://dossa-hasan.github.io/Foodeli/)
 
 
 # Foodeli food delivery Website Design
